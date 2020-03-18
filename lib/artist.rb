@@ -22,3 +22,4 @@ def add_song(song)
  def self.song_count
    @songs.count
  end
+ end
