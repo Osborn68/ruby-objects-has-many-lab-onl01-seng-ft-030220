@@ -32,3 +32,4 @@ class Author
   def self.all 
     @@all
   end
+end
