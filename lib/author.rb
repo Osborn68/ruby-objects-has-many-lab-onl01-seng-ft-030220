@@ -12,3 +12,5 @@ class Author
     @@all
   end
     
+    
+  end
